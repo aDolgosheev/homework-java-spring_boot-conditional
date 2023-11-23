@@ -1,0 +1,6 @@
+C:\_java\netology-homework\homework-java-spring_boot-conditional\src\main\java\ru\netology\dolgosheev\Application.java
+C:\_java\netology-homework\homework-java-spring_boot-conditional\src\main\java\ru\netology\dolgosheev\controller\ProfileController.java
+C:\_java\netology-homework\homework-java-spring_boot-conditional\src\main\java\ru\netology\dolgosheev\systemProfile\SystemProfile.java
+C:\_java\netology-homework\homework-java-spring_boot-conditional\src\main\java\ru\netology\dolgosheev\config\JavaConfig.java
+C:\_java\netology-homework\homework-java-spring_boot-conditional\src\main\java\ru\netology\dolgosheev\systemProfile\DevProfile.java
+C:\_java\netology-homework\homework-java-spring_boot-conditional\src\main\java\ru\netology\dolgosheev\systemProfile\ProductionProfile.java

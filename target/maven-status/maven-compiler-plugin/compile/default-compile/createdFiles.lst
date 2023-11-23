@@ -1,0 +1,6 @@
+ru\netology\dolgosheev\Application.class
+ru\netology\dolgosheev\controller\ProfileController.class
+ru\netology\dolgosheev\systemProfile\DevProfile.class
+ru\netology\dolgosheev\systemProfile\ProductionProfile.class
+ru\netology\dolgosheev\config\JavaConfig.class
+ru\netology\dolgosheev\systemProfile\SystemProfile.class
